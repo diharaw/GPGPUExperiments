@@ -8,3 +8,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
 
 # Experiments
 add_subdirectory(src/1_hello_opencl)
+add_subdirectory(src/2_hello_cuda)
